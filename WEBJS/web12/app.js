@@ -14,7 +14,7 @@ if (num >= 65) {
 }
 else {
 
-     let añorestantes = 65 - num 
+     let añorestantes = 65 - num; 
 
      alert("Te quedan " + añorestantes);
 
